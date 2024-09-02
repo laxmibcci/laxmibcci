@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"
-    alt="coding" align="right" width="400">
+    alt="coding" align="right" width="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmibcci&label=Profile%20views&color=0e75b6&style=flat"
         alt="laxmibcci" /> </p>
